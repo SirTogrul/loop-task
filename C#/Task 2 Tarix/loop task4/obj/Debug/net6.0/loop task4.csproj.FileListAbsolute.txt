@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\loop task4\obj\Debug\net6.0\loop task4.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\loop task4\obj\Debug\net6.0\loop task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\loop task4\obj\Debug\net6.0\loop task4.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\loop task4\obj\Debug\net6.0\loop task4.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\loop task4\obj\Debug\net6.0\loop task4.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\loop task4\bin\Debug\net6.0\loop task4.exe
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\loop task4\bin\Debug\net6.0\loop task4.deps.json
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\loop task4\bin\Debug\net6.0\loop task4.runtimeconfig.json
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\loop task4\bin\Debug\net6.0\loop task4.dll
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\loop task4\bin\Debug\net6.0\loop task4.pdb
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\loop task4\obj\Debug\net6.0\loop task4.dll
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\loop task4\obj\Debug\net6.0\refint\loop task4.dll
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\loop task4\obj\Debug\net6.0\loop task4.pdb
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\loop task4\obj\Debug\net6.0\loop task4.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\loop task4\obj\Debug\net6.0\ref\loop task4.dll
